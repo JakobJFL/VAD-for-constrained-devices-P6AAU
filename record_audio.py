@@ -31,7 +31,7 @@ def record_mic(record_seconds, rate):
     while not messages.empty():
         data = stream.read(CHUNK)
         frames.append(data)
-        if len(frames) >= (rate / CHUNK * record_seconds): # recorded more than 10 sec
+        if len(frames) >= (rate / CHUNK * record_seconds): # recorded more than 2 sec
             print ("finished recording")
             recordings.put(frames.copy())
             frames = []
