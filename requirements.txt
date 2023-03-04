@@ -1,6 +1,8 @@
 #Installation command: pip install --no-cache-dir --upgrade -r requirements.txt
 pyaudio
 torch
-pyannote
+pyannote.audio
+pyannote.core
+speechbrain 
 numpy
 matplotlib
