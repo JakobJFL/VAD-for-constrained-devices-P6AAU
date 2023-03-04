@@ -1,7 +1,10 @@
 #Installation command: pip install --no-cache-dir --upgrade -r requirements.txt
 pyaudio
+threading
+queue
 torch
 pyannote.audio
 numpy
 queue
 threading
+matplotlib.pyplot
