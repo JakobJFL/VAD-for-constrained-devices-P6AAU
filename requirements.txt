@@ -3,4 +3,4 @@ pyaudio
 torch
 pyannote.audio
 numpy
-matplotlib.pyplot
+matplotlib
