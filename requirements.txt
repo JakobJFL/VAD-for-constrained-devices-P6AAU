@@ -1,5 +1,7 @@
 #Installation command: pip install --no-cache-dir --upgrade -r requirements.txt
-pyaudio
 torch
+wheel
 numpy
+PyAudio
+https://github.com/pyannote/pyannote-audio/tarball/develop
 matplotlib
