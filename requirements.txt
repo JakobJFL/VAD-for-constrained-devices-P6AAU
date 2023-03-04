@@ -1,6 +1,6 @@
 #Installation command: pip install --no-cache-dir --upgrade -r requirements.txt
 pyaudio
 torch
-pip install -qq https://github.com/pyannote/pyannote-audio/archive/develop.zip
+pyannote
 numpy
 matplotlib
