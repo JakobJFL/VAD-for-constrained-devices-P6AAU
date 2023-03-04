@@ -2,7 +2,6 @@
 torch
 wheel
 numpy
-portaudio
 PyAudio
 https://github.com/pyannote/pyannote-audio/tarball/develop
 matplotlib
